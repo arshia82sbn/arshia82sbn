@@ -9,7 +9,8 @@ I’m a proactive ECE undergrad in Tehran, combining academic studies with hands
 ## 🚀 What I Do
 
 - 🌍 Based in **Tehran, Iran**  
-- ✉️ You can reach me at **arshia82sbn@gmail.com**  
+- ✉️ You can reach me at **arshia82sbn@gmail.com**
+- 🧠 I'm steal learning
 - 📚 Deep learning experimentation: designing and training neural networks for vision, NLP, and translation tasks  
 
 ---
