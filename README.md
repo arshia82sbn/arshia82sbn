@@ -30,6 +30,13 @@ I’m a proactive ECE undergrad in Tehran, combining academic studies with hands
   <img alt="Computer Vision"   src="https://img.shields.io/badge/-Computer_Vision-FF6F00?logo=opencv&logoColor=white" />
   <img alt="NLP"               src="https://img.shields.io/badge/-NLP-FF6F00?logo=nlp&logoColor=white" />
   <img alt="Circuit Design"     src="https://img.shields.io/badge/-Circuit_Design-4F5D75?logo=fritzing&logoColor=white" />
+  <img alt="MongoDB"           src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL"        src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="SQLite"            src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img alt="SQL Server"        src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+  <img alt="YOLO"              src="https://img.shields.io/badge/-YOLO-FF6F00?logo=yolo&logoColor=white" />
+  <img alt="UI/UX"             src="https://img.shields.io/badge/-UI/UX-6A1B9A?logo=figma&logoColor=white" />
+  <img alt="GUI Windows Apps"  src="https://img.shields.io/badge/-GUI_Windows_Apps-0078D7?logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -58,6 +65,14 @@ I’m a proactive ECE undergrad in Tehran, combining academic studies with hands
 - **Professional PDF Translator** – OCR‑powered Persian↔English PDF translation.  
 - **Store Finance Manager** – inventory & sales tracking for retail stores.  
 - **Banking App** – secure account management and transaction history interface.
+
+- **GUI Windows Applications**  
+  • Worked on developing GUI-based Windows applications using frameworks like Qt and WinForms.  
+  • Designed custom icons and user interfaces for desktop apps, focusing on intuitive UX and efficient functionality.
+
+### NLP codes
+- **Make Text Generator** – Developed a trigram-based text generator using NLTK and Python for sentence generation, incorporating n-gram modeling, perplexity evaluation, and OOV handling for robust NLP tasks.  
+- **Spam Detection** – Implemented a machine learning-based spam detection system using scikit-learn, featuring text preprocessing, feature extraction (TF-IDF), and classification models like Naive Bayes or SVM for accurate email/SMS filtering.
 
 ---
 
