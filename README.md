@@ -334,14 +334,17 @@ https://github.com/arshia82sbn/Iris_flower_with_numpy
 
 # 📈 GitHub Statistics
 
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arshia82sbn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=arshia82sbn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="180"
+/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia82sbn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia82sbn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="180"
+/>
 
 </p>
 
@@ -350,13 +353,14 @@ https://github.com/arshia82sbn/Iris_flower_with_numpy
 
 # 🏆 GitHub Achievements
 
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arshia82sbn&theme=tokyonight&no-frame=true&row=1"/>
+<img 
+src="https://github-profile-trophy.vercel.app/?username=arshia82sbn&theme=tokyonight&no-frame=true&margin-w=10"
+width="800"
+/>
 
 </p>
-
 
 ---
 
