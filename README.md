@@ -7,67 +7,29 @@ AI & Software Engineer | Machine Learning Engineer | Full Stack Developer | Embe
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineer;Machine+Learning+Engineer;Full+Stack+Developer;Deep+Learning+%26+NLP+Explorer;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineer;Machine+Learning+Engineer;Python+%7C+Next.js+Developer;Deep+Learning+%26+NLP+Enthusiast;Building+Intelligent+Applications"/>
 </p>
 
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am an **AI & Software Engineer** focused on building intelligent applications by combining:
+I am an **AI & Software Engineer** specializing in building intelligent applications by combining **Artificial Intelligence, Modern Web Technologies, and Embedded Systems**.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Modern Full Stack Web Development
-- ⚡ Embedded Systems Engineering
+My main focus is designing and developing:
 
-I specialize in developing scalable software solutions using **Python, FastAPI, Next.js, React, and AI technologies**.
+- 🤖 Machine Learning & Deep Learning systems
+- 🧠 NLP and Computer Vision applications
+- 🌐 Full Stack web applications
+- ⚡ AI-powered software solutions
+- 🔌 Embedded and edge computing systems
 
-My work includes designing AI-powered applications, training machine learning models, developing production websites, creating open-source libraries, and integrating intelligent systems with real-world applications.
+I have strong experience developing applications with **Python, FastAPI, Next.js, React, and AI frameworks**, from research prototypes to production-ready systems.
 
-
-- 🌍 Based in **Tehran, Iran**
-- 🚀 Open to collaboration on AI, software, and web projects
-- 📧 Contact: **arshia82sbn@gmail.com**
-- 🧠 Currently exploring advanced Deep Learning, LLM applications, and scalable system architecture
-
-
----
-
-# 🚀 What I Build
-
-### 🤖 Artificial Intelligence
-
-- Deep Learning models
-- Natural Language Processing systems
-- Computer Vision applications
-- Transformer-based models
-- AI-powered web applications
-- LLM applications
-
-
-### 🌐 Full Stack Applications
-
-Building modern production-ready applications using:
-
-- Next.js
-- React
-- FastAPI
-- Flask
-- Node.js
-- SQL & NoSQL databases
-- Docker-based deployments
-
-
-### ⚡ Embedded Systems
-
-Developing embedded solutions with:
-
-- AVR Microcontrollers
-- Arduino
-- Raspberry Pi
-- ESP systems
-- Computer vision on edge devices
+- 🌍 Based in Tehran, Iran
+- 💼 Open to collaboration on AI, software, and web projects
+- 📚 Continuously exploring advanced AI architectures, system design, and scalable applications
 
 
 ---
@@ -75,128 +37,157 @@ Developing embedded solutions with:
 # 🛠️ Tech Stack
 
 
-## Frontend
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,figma" />
+
+<img src="https://skillicons.dev/icons?i=python,js,go,cpp,c,bash,sql" />
+
 </p>
 
 
-## Backend
+## 🌐 Frontend Development
 
 <p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+</p>
+
+- React.js
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Modern responsive UI/UX development
+
+
+## ⚙️ Backend Development
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+
 </p>
 
+- FastAPI
+- Flask
+- Node.js
+- REST API development
+- Backend architecture design
 
-## Programming Languages
+
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
 </p>
 
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
 
-## AI / Machine Learning
+
+## 🤖 Artificial Intelligence & Data Science
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
 </p>
 
 
 - Machine Learning
 - Deep Learning
-- NLP
+- Natural Language Processing (NLP)
 - Computer Vision
 - Transformers
-- YOLO
-- Scikit-Learn
-- Pandas
+- Large Language Models (LLMs)
+- Data Analysis
 - NumPy
+- Pandas
+- Scikit-learn
+- YOLO
 
 
-## Databases
+## 🔌 Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
 </p>
 
 
-## DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
-</p>
-
-
-- VPS Deployment
-- CI/CD
-- GitHub Actions
-- Linux Server Management
-
-
-## Embedded
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-
-- AVR
-- CodeVision C
+- AVR Microcontrollers
 - Arduino
+- ESP32
 - Raspberry Pi
-- ESP
+- CodeVision C
+- Circuit Design
+- Proteus
+
+
+## 🚀 DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions" />
+
+</p>
+
+
+- Linux Administration
+- Docker
+- Nginx
+- VPS Deployment
+- GitHub Actions
+- CI/CD
 
 
 ---
 
 # 🌐 Production Websites & Client Projects
 
+I have designed and developed multiple production websites and digital platforms for companies and clients.
+
 
 ### 🏢 AI College
-
 🔗 https://aibcollege.ir
 
-AI-focused educational platform.
+Educational platform focused on AI and technology.
 
 
-### 🤖 Chasbine AI
-
+### 🤖 Chasbine Bot
 🔗 https://chasbine-bot.com
 
-AI chatbot platform.
+AI-powered chatbot platform.
 
 
-### 🍄 HAGG Ecosystem
-
+### 🍄 Hagg Ecosystem
 🔗 https://hagg.info
 
-Complete mushroom industry ecosystem including:
-
-- Selling platform
-- Services
-- Business solutions
+Complete selling and servicing ecosystem.
 
 
-### 👨‍💻 Ordibehesht Academy
-
+### 🎓 Ordibehesht Academy
 🔗 https://ordibehesht.tech
 
 Programming education platform.
 
 
-### 🍄 HAGG AI
-
+### 🤖 Hagg AI Platform
 🔗 https://ai.hagg.info
 
-AI-powered mushroom intelligence platform.
+AI system focused on mushroom intelligence and analysis.
 
 
-### 🌌 3D Cosmos Landing
-
+### 🌌 3D Cosmos Landing Experience
 🔗 https://landing.hagg.info
 
-Interactive 3D cosmos landing experience.
+Interactive 3D cosmic landing page experience.
 
 
 ---
@@ -204,9 +195,9 @@ Interactive 3D cosmos landing experience.
 # 📦 Open Source Projects
 
 
-## 🔥 Rexa - Python Regex Library
+## 🔥 Rexa - Python Regex & Text Processing Library
 
-⭐ My own Python library
+⭐ My own Python library published on PyPI.
 
 GitHub:
 https://github.com/arshia82sbn/rexa
@@ -215,36 +206,69 @@ PyPI:
 https://pypi.org/project/rexa/
 
 
-A Python library designed to simplify regex operations and text processing workflows.
+Features:
+
+- Custom regex utilities
+- Text processing tools
+- Python package development
+- Open-source distribution
 
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Artificial Intelligence Projects
 
 
 ## 📄 PDF Viewer Pro
 
-GitHub:
+A professional PDF application with AI-powered summarization.
+
+Features:
+
+- PDF reading system
+- AI summarization model integration
+- Modern desktop interface
+
+
+Repository:
+
 https://github.com/arshia82sbn/PDF_Viewer_Pro
-
-
-A professional PDF application featuring:
-
-- PDF reading
-- AI-powered summarization
-- Document processing
 
 
 ---
 
-## 🧠 Text Generator With N-Grams Model
+## 👁️ Detecting PCB Objects Using YOLO
 
-GitHub:
-https://github.com/arshia82sbn/Text_Generator_With-N-Grams_Model
+Computer vision project for detecting PCB components using YOLO models.
+
+Repository:
+
+https://github.com/arshia82sbn/Detecting_PCB_Object_by_YOLO
 
 
-NLP project implementing:
+---
+
+## 🌍 Translator Application
+
+AI-powered translation application.
+
+Technologies:
+
+- NLP
+- Translation models
+- Python
+
+
+Repository:
+
+https://github.com/arshia82sbn/Translator_App
+
+
+---
+
+## ✍️ Text Generator With N-Gram Model
+
+Natural Language Processing project implementing:
 
 - N-Gram language modeling
 - Text generation
@@ -252,60 +276,48 @@ NLP project implementing:
 - OOV handling
 
 
----
+Repository:
 
-## 👁️ PCB Object Detection With YOLO
-
-GitHub:
-https://github.com/arshia82sbn/Detecting_PCB_Object_by_YOLO
-
-
-Computer vision system for detecting PCB components using YOLO.
+https://github.com/arshia82sbn/Text_Generator_With_N-Grams_Model
 
 
 ---
 
-## 🌸 Iris Classification With NumPy
+# 📊 Data Science Projects
 
-GitHub:
-https://github.com/arshia82sbn/Iris_flower_with_numpy
-
-
-Machine learning implementation using NumPy fundamentals.
-
-
----
 
 ## 🍫 Chocolate Company Analysis
-
-GitHub:
-https://github.com/arshia82sbn/Chocolote_Company_Analyze
-
 
 Data analysis project using:
 
 - NumPy
 - Pandas
 - Data visualization
+- Business analysis
+
+
+Repository:
+
+https://github.com/arshia82sbn/Chocolote_Company_Analyze
 
 
 ---
 
-## 🌍 Translator Application
+## 🌸 Iris Flower Classification With NumPy
 
-GitHub:
-https://github.com/arshia82sbn/Translator_App
+Machine learning implementation using mathematical foundations.
 
+Repository:
 
-Translation application combining software development and language processing.
+https://github.com/arshia82sbn/Iris_flower_with_numpy
 
 
 ---
 
-# 🏆 Certifications & Learning
+# 🎓 Certifications & Learning
 
 
-## Artificial Intelligence & Programming
+## AI & Programming
 
 - Advanced Python — Sematec
 - Python Programming — Sematec
@@ -313,32 +325,23 @@ Translation application combining software development and language processing.
 - AI Project Management — Udemy
 - NLP — Quera
 - Design Pattern — Quera
-- LLM Applications — Quera
-
-
-## Machine Learning & Data Science
-
 - Python — Kaggle
 - Machine Learning — Kaggle
+- LLM Application Development — Quera
 
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arshia82sbn&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=arshia82sbn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia82sbn&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia82sbn&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia82sbn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -349,7 +352,9 @@ Translation application combining software development and language processing.
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arshia82sbn&theme=tokyonight&no-frame=true&row=1" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=arshia82sbn&theme=tokyonight&no-frame=true&row=1"/>
+
 </p>
 
 
@@ -360,16 +365,18 @@ Translation application combining software development and language processing.
 
 <p align="left">
 
-<a href="https://github.com/arshia82sbn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<a href="mailto:arshia82sbn@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
+
+
+<a href="https://github.com/arshia82sbn">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+</a>
+
 
 <a href="https://www.linkedin.com/in/arshia-saberian-420709177">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:arshia82sbn@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -377,4 +384,8 @@ Translation application combining software development and language processing.
 
 ---
 
-⭐ From AI systems to full-stack applications and embedded solutions, I enjoy turning ideas into real-world products.
+<p align="center">
+
+⭐ Building intelligent systems with AI, software engineering, and creativity.
+
+</p>
