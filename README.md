@@ -1,84 +1,380 @@
-# Hi there 👋 I'm **Arshia Saberian**
+<h1 align="center">
+  Hi 👋 I'm Arshia Saberian
+</h1>
 
-### 🎓 Bachelor’s Student in Electrical Engineering (Electronics) | AI & Embedded Systems Enthusiast
+<h3 align="center">
+AI & Software Engineer | Machine Learning Engineer | Full Stack Developer | Embedded Systems Developer
+</h3>
 
-I’m a proactive ECE undergrad in Tehran, combining academic studies with hands‑on AI and embedded‑systems projects. Continuously diving into deep learning research, building and fine‑tuning AI models, and integrating them with edge devices.
-
----
-
-## 🚀 What I Do
-
-- 🌍 Based in **Tehran, Iran**  
-- ✉️ You can reach me at **arshia82sbn@gmail.com**
-- 🧠 I'm steal learning
-- 📚 Deep learning experimentation: designing and training neural networks for vision, NLP, and translation tasks  
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="left">
-  <img alt="C"                 src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" />
-  <img alt="C++"               src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-  <img alt="Python"            src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img alt="TensorFlow"        src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch"           src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img alt="Pandas"            src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
-  <img alt="Arduino"           src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" />
-  <img alt="Proteus"           src="https://img.shields.io/badge/-Proteus-000000?logo=proteus&logoColor=white" />
-  <img alt="Machine Learning"  src="https://img.shields.io/badge/-Machine_Learning-4B8BBE?logo=machinelearning&logoColor=white" />
-  <img alt="Computer Vision"   src="https://img.shields.io/badge/-Computer_Vision-FF6F00?logo=opencv&logoColor=white" />
-  <img alt="NLP"               src="https://img.shields.io/badge/-NLP-FF6F00?logo=nlp&logoColor=white" />
-  <img alt="Circuit Design"     src="https://img.shields.io/badge/-Circuit_Design-4F5D75?logo=fritzing&logoColor=white" />
-  <img alt="MongoDB"           src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL"        src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img alt="SQLite"            src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img alt="SQL Server"        src="https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-  <img alt="YOLO"              src="https://img.shields.io/badge/-YOLO-FF6F00?logo=yolo&logoColor=white" />
-  <img alt="UI/UX"             src="https://img.shields.io/badge/-UI/UX-6A1B9A?logo=figma&logoColor=white" />
-  <img alt="GUI Windows Apps"  src="https://img.shields.io/badge/-GUI_Windows_Apps-0078D7?logo=windows&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineer;Machine+Learning+Engineer;Full+Stack+Developer;Deep+Learning+%26+NLP+Explorer;Building+Intelligent+Applications" />
 </p>
 
----
-
-## 📚 Experience & Projects
-
-### Embedded & AI Projects
-- **Face Recognition & OCR System**  
-  • Designed a computer‑vision pipeline to detect and recognize faces, extract text via OCR, and log metadata.  
-  • Built with Python, OpenCV, Tesseract, and deployed on Raspberry Pi.
-
-- **Machine Translation & NLP Models**  
-  • Fine‑tuned transformer models for bidirectional translation (English↔Persian).  
-  • Integrated into a chatbot and PDF‑translator application.
-
-- **Arduino & AVR Projects**  
-  • Programmed AVR microcontrollers in CodeVision C for academic and personal projects.  
-  • Developed Arduino Nano systems with JSON parsing and web‑service integration.
-
-- **C++ Development**  
-  • Built Qt‑based games on desktop platforms.  
-  • Implemented various algorithms (sorting, path‑finding, data structures) in C++.
-
-### Applications Built
-- **Weather App** – real‑time forecasts with graphical UI.  
-- **Professional PDF Translator** – OCR‑powered Persian↔English PDF translation.  
-- **Store Finance Manager** – inventory & sales tracking for retail stores.  
-- **Banking App** – secure account management and transaction history interface.
-
-- **GUI Windows Applications**  
-  • Worked on developing GUI-based Windows applications using frameworks like Qt and WinForms.  
-  • Designed custom icons and user interfaces for desktop apps, focusing on intuitive UX and efficient functionality.
-
-### NLP codes
-- **Make Text Generator** – Developed a trigram-based text generator using NLTK and Python for sentence generation, incorporating n-gram modeling, perplexity evaluation, and OOV handling for robust NLP tasks.  
-- **Spam Detection** – Implemented a machine learning-based spam detection system using scikit-learn, featuring text preprocessing, feature extraction (TF-IDF), and classification models like Naive Bayes or SVM for accurate email/SMS filtering.
 
 ---
 
-## 📫 Connect with Me
+## 👨‍💻 About Me
+
+I am an **AI & Software Engineer** focused on building intelligent applications by combining:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Modern Full Stack Web Development
+- ⚡ Embedded Systems Engineering
+
+I specialize in developing scalable software solutions using **Python, FastAPI, Next.js, React, and AI technologies**.
+
+My work includes designing AI-powered applications, training machine learning models, developing production websites, creating open-source libraries, and integrating intelligent systems with real-world applications.
+
+
+- 🌍 Based in **Tehran, Iran**
+- 🚀 Open to collaboration on AI, software, and web projects
+- 📧 Contact: **arshia82sbn@gmail.com**
+- 🧠 Currently exploring advanced Deep Learning, LLM applications, and scalable system architecture
+
+
+---
+
+# 🚀 What I Build
+
+### 🤖 Artificial Intelligence
+
+- Deep Learning models
+- Natural Language Processing systems
+- Computer Vision applications
+- Transformer-based models
+- AI-powered web applications
+- LLM applications
+
+
+### 🌐 Full Stack Applications
+
+Building modern production-ready applications using:
+
+- Next.js
+- React
+- FastAPI
+- Flask
+- Node.js
+- SQL & NoSQL databases
+- Docker-based deployments
+
+
+### ⚡ Embedded Systems
+
+Developing embedded solutions with:
+
+- AVR Microcontrollers
+- Arduino
+- Raspberry Pi
+- ESP systems
+- Computer vision on edge devices
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,figma" />
+</p>
+
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
+
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Transformers
+- YOLO
+- Scikit-Learn
+- Pandas
+- NumPy
+
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
+</p>
+
+
+- VPS Deployment
+- CI/CD
+- GitHub Actions
+- Linux Server Management
+
+
+## Embedded
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+
+- AVR
+- CodeVision C
+- Arduino
+- Raspberry Pi
+- ESP
+
+
+---
+
+# 🌐 Production Websites & Client Projects
+
+
+### 🏢 AI College
+
+🔗 https://aibcollege.ir
+
+AI-focused educational platform.
+
+
+### 🤖 Chasbine AI
+
+🔗 https://chasbine-bot.com
+
+AI chatbot platform.
+
+
+### 🍄 HAGG Ecosystem
+
+🔗 https://hagg.info
+
+Complete mushroom industry ecosystem including:
+
+- Selling platform
+- Services
+- Business solutions
+
+
+### 👨‍💻 Ordibehesht Academy
+
+🔗 https://ordibehesht.tech
+
+Programming education platform.
+
+
+### 🍄 HAGG AI
+
+🔗 https://ai.hagg.info
+
+AI-powered mushroom intelligence platform.
+
+
+### 🌌 3D Cosmos Landing
+
+🔗 https://landing.hagg.info
+
+Interactive 3D cosmos landing experience.
+
+
+---
+
+# 📦 Open Source Projects
+
+
+## 🔥 Rexa - Python Regex Library
+
+⭐ My own Python library
+
+GitHub:
+https://github.com/arshia82sbn/rexa
+
+PyPI:
+https://pypi.org/project/rexa/
+
+
+A Python library designed to simplify regex operations and text processing workflows.
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 📄 PDF Viewer Pro
+
+GitHub:
+https://github.com/arshia82sbn/PDF_Viewer_Pro
+
+
+A professional PDF application featuring:
+
+- PDF reading
+- AI-powered summarization
+- Document processing
+
+
+---
+
+## 🧠 Text Generator With N-Grams Model
+
+GitHub:
+https://github.com/arshia82sbn/Text_Generator_With-N-Grams_Model
+
+
+NLP project implementing:
+
+- N-Gram language modeling
+- Text generation
+- Perplexity evaluation
+- OOV handling
+
+
+---
+
+## 👁️ PCB Object Detection With YOLO
+
+GitHub:
+https://github.com/arshia82sbn/Detecting_PCB_Object_by_YOLO
+
+
+Computer vision system for detecting PCB components using YOLO.
+
+
+---
+
+## 🌸 Iris Classification With NumPy
+
+GitHub:
+https://github.com/arshia82sbn/Iris_flower_with_numpy
+
+
+Machine learning implementation using NumPy fundamentals.
+
+
+---
+
+## 🍫 Chocolate Company Analysis
+
+GitHub:
+https://github.com/arshia82sbn/Chocolote_Company_Analyze
+
+
+Data analysis project using:
+
+- NumPy
+- Pandas
+- Data visualization
+
+
+---
+
+## 🌍 Translator Application
+
+GitHub:
+https://github.com/arshia82sbn/Translator_App
+
+
+Translation application combining software development and language processing.
+
+
+---
+
+# 🏆 Certifications & Learning
+
+
+## Artificial Intelligence & Programming
+
+- Advanced Python — Sematec
+- Python Programming — Sematec
+- Prompt Engineering — MFT Institute Portugal
+- AI Project Management — Udemy
+- NLP — Quera
+- Design Pattern — Quera
+- LLM Applications — Quera
+
+
+## Machine Learning & Data Science
+
+- Python — Kaggle
+- Machine Learning — Kaggle
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arshia82sbn&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia82sbn&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshia82sbn&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+---
+
+# 🏆 GitHub Achievements
+
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arshia82sbn&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+
+---
+
+# 📫 Connect With Me
+
 
 <p align="left">
-  <a href="https://github.com/arshia82sbn" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arshia-saberian-420709177" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+
+<a href="https://github.com/arshia82sbn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/arshia-saberian-420709177">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:arshia82sbn@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
+
+
+---
+
+⭐ From AI systems to full-stack applications and embedded solutions, I enjoy turning ideas into real-world products.
