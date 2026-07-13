@@ -350,8 +350,15 @@ https://github.com/arshia82sbn/Iris_flower_with_numpy
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
 
+---
+
 </p>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshia82sbn/arshia82sbn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
