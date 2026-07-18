@@ -20,6 +20,7 @@ Building Intelligent Software Systems with Artificial Intelligence, Modern Web T
 
 </p>
 
+
 ---
 
 <p align="center">
@@ -503,12 +504,11 @@ https://github.com/arshia82sbn/Iris_flower_with_numpy
 
 ---
 
-# 🏙️ 3D Contribution Map
+## 🌃 3D Contribution Map
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </p>
-
 ---
 
 <p align="center">
