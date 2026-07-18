@@ -489,11 +489,6 @@ https://github.com/arshia82sbn/Iris_flower_with_numpy
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arshia82sbn&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshia82sbn&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
 ---
 
 # 🐍 Contribution Graph
